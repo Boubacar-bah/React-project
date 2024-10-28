@@ -1,5 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
+import "./stylisation.css";
 
 //For navigation
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
@@ -32,5 +33,5 @@ const App = () => {
     )
 }
 
-const accRoot = ReactDOM.createRoot(document.getElementById('root4'));
+const accRoot = ReactDOM.createRoot(document.getElementById('root'));
 accRoot.render(<App />)
