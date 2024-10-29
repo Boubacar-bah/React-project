@@ -1,4 +1,4 @@
-const askim = <img src="..src/parts/images/askim.png" alt="askim"/>
+const askim = <img src="./images/askim.png" alt="askim"/>;
 const mane = <img src="./images/mane.jpg" alt="Mane" />
 const amie = <img src="./images/amie.jpg" alt="Amie" />
 const ibrahima = <img src="./images/ibrahima.jpg" alt="Ibrahima"/>
